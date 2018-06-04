@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InputDataFirebase</string>
+    <string name="action_settings">Settings</string>
+    <string name="fungsi">Bangungan Berdasarkan Fungsi</string>
+
+    <string-array name="fungsi">
+        <item>Hunian</item>
+        <item>Keagamaan</item>
+        <item>usaha</item>
+        <item>Budaya</item>
+        <item>Khusus</item>
+        <item>Campuran</item>
+    </string-array>
+
+</resources>
